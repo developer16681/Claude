@@ -29,7 +29,7 @@ Navigate through the folders in this repository to find different game projects.
 
 ### 2. Launch a Game
 - **Web Games (`.html`)**: Open the `index.html` file in any modern web browser to start playing immediately.
-- **Script/Terminal Games**: Follow the specific running instructions inside each game's folder (e.g., `python main.py` or `node index.js`).
+- **Script/Terminal Games**: Follow the specific running instructions inside each game's file (e.g., `python main.py` or `node index.js`).
 
 ### 3. Customize & Experiment
 Feel free to modify the source code or prompt Claude AI with new ideas to expand these games!
